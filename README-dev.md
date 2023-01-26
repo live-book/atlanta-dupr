@@ -64,3 +64,4 @@ yarn add -D vuepress-plugin-mermaid-wrapper
 ## Resources
 - https://v2.vuepress.vuejs.org/guide/getting-started.html#manual-installation
 - https://www.markdownguide.org/cheat-sheet/
+- https://www.w3schools.com/colors/colors_names.asp
