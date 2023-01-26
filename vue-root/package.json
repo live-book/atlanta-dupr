@@ -1,0 +1,15 @@
+{
+  "name": "vue-root",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.60",
+    "vuepress-plugin-md-enhance": "^2.0.0-beta.168",
+    "vuepress-plugin-seo2": "^2.0.0-beta.168"
+  },
+  "dependencies": {}
+}

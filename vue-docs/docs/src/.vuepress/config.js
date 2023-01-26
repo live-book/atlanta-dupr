@@ -33,49 +33,21 @@ module.exports = {
     editLinkText: '',
     lastUpdated: false,
     nav: [
+            {
+        text: 'About',
+        link: '/about/',
+      },      
       {
         text: 'Activity',
         link: '/activity/',
       },
-{
+      {
         text: 'Rating',
         link: '/rating/',
-      },
-{
-        text: 'DUPR',
-        link: '/dupr/',
-      },      
-      {
-        text: 'Guide',
-        link: '/guide/',
-      },
-      {
-        text: 'Config',
-        link: '/config/'
       }
     ],
     sidebar: {
-        '/activity/': [
-        {
-          title: 'Activity',
-          collapsable: false,
-          children: [
-            '',
-            'round-robin',
-            'group-practice',
-          ]
-        }
-      ],
-      '/guide/': [
-        {
-          title: 'Guide',
-          collapsable: false,
-          children: [
-            '',
-            'using-vue',
-          ]
-        }
-      ],
+      
     }
   },
 
@@ -84,7 +56,7 @@ module.exports = {
    */
   plugins: [
     '@vuepress/plugin-back-to-top',
-    '@vuepress/plugin-medium-zoom',
+    '@vuepress/plugin-medium-zoom'
   ],
   /**
     * Added config

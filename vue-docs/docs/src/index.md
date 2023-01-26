@@ -1,9 +1,8 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline: 
-actionText: Quick Start →
-actionLink: /guide/
+tagline: Pickleball players making measurable progress
+actionText: Our Activities →
+actionLink: /activity/
 features:
 - title: Feature 1 Title
   details: Feature 1 Description
@@ -13,3 +12,5 @@ features:
   details: Feature 3 Description
 footer: Made by  with ❤️
 ---
+<h3>What</h3>
+What about this text?
