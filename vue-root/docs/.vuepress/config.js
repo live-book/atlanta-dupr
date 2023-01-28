@@ -12,9 +12,9 @@ export default {
   description: 'Pickleball players making measurable progress',  
   dest: '/home/runner/atlanta-dupr/docs',
   base: '/atlanta-dupr/',
-  contributors: false,
   theme: defaultTheme({
      colorModeSwitch: false,
+     contributors: false,
      navbar: [
       {
         text: 'About',
