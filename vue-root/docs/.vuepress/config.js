@@ -17,15 +17,15 @@ export default {
      navbar: [
       {
         text: 'About',
-        link: 'about/',
+        link: '/about/',
       },
       {
         text: 'Activity',
-        link: 'activity/',
+        link: '/activity/',
       },
       {
         text: 'Rating',
-        link: 'rating/',
+        link: '/rating/',
       }
      ],
      sidebar: {
