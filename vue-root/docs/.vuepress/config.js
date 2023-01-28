@@ -11,20 +11,21 @@ export default {
   title: 'Atlanta DUPR Pickleball Club',
   description: 'Pickleball players making measurable progress',  
   dest: '/home/runner/atlanta-dupr/docs',
+  base: '/atlanta-dupr/',
   theme: defaultTheme({
      colorModeSwitch: false,
      navbar: [
       {
         text: 'About',
-        link: '/about/',
+        link: 'about/',
       },
       {
         text: 'Activity',
-        link: '/activity/',
+        link: 'activity/',
       },
       {
         text: 'Rating',
-        link: '/rating/',
+        link: 'rating/',
       }
      ],
      sidebar: {

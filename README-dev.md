@@ -45,6 +45,12 @@ yarn add -D vuepress-plugin-mermaid-wrapper
 ```
 
 
+## Error base url
+
+- https://github.com/vuejs/vuepress/issues/1935
+- https://vuepress.vuejs.org/config/#base
+- https://vuepress.vuejs.org/guide/deploy.html#github-pages
+
 
 ## Error Fix
 ```
