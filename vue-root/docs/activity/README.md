@@ -23,9 +23,9 @@ The DUPR Pickleball Round Robin event provides an organized way for players to p
 | Piedmont Atlanta Fitness Center | Mondays, 6 p.m. to 8:45 p.m. | 
 
 ## Group Practice
-The **group practice** is intended for intermedia Pickleball players to work on skills for advancing to a higher level.  During a **group practice**, we perform 
+The **group practice** is intended for intermediate Pickleball players to work on skills for advancing to a higher level.  During a **group practice**, we perform 
 - drills
-- practive games focusing on specific skills
+- practice games focusing on specific skills
 - peer-coaching.
 
 | Location | Date and Time |
@@ -35,7 +35,7 @@ The **group practice** is intended for intermedia Pickleball players to work on 
 ## Locations
 
 ### Cross Creek Golf Club
-- 1221 Cross Creek Pkwy NW A, Atlanta, GA 30327
+- 1221 Cross Creek Pkwy NW, Atlanta, GA 30327
 
 
 ### Piedmont Atlanta Fitness Center
@@ -43,6 +43,6 @@ The **group practice** is intended for intermedia Pickleball players to work on 
 - The entrance is on Brookwood Valley Circle, not on Peachtree Street
 
 #### Details
-- Piedmont Fitness Center has three Pickleball courts setup in an in-door Basketbal gymnasium using portable nets. 
+- Piedmont Fitness Center has three Pickleball courts setup in an in-door Basketball gymnasium using portable nets. 
 - Piedmont Fitness Center offers Pickleball hours 6 days per week in the morning and afternoon. Typically, there are open plays 6 days per week in the afternoon. See [Gymnasium Schedule](https://www.piedmont.org/media/file/PAH-Gymnasium-Schedule.pdf)
 - There is a $10 facility fee for non-members.  The membership fee is $57 per month. 100% of the facility fee goes to Piedmont Fitness Center. 

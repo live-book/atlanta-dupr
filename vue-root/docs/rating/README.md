@@ -16,8 +16,8 @@ root((Rating))
 ## Assessment-Based Rating
 
 Assessment-based rating refers to subjective rating assigned to a player based on skill rating defined by established organization(s), such as *USA Pickleball*   ([USAPA](https://usapickleball.org)).
-- **Self-rating** refers players assign ratings to themselfs based on predefined skill rating definition.
-- **Coach-rating** refers players assign ratings by a Pickleball coach the coach's knowledge and predefined skill rating definition.
+- **Self-rating** refers to players assign ratings to themselves based on predefined skill rating definition.
+- **Coach-rating** refers to players assign ratings by a Pickleball coach the coach's knowledge and predefined skill rating definition.
 
 #### Skill Rating Definition
 - [USAPA Definitions of Player Skill Ratings](https://usapickleball.org/tournaments/tournament-player-ratings/player-skill-rating-definitions/)
@@ -25,10 +25,10 @@ Assessment-based rating refers to subjective rating assigned to a player based o
 - USA Pickleball [USAP](https://usapickleball.org/)
 
 ## Score-Based Rating
-A score-based rating refers quantitive ratings assigned to players based on thier game scores. Two major organizations provide score-based ratings: *USA Pickleball Tournament Player Rating* [(UTPR)](https://usapickleball.org/tournaments/tournament-player-ratings) and *Dynamic Universal Pickleball Rating* [(DUPR)](https://mydupr.com/). 
+A score-based rating refers quantitative ratings assigned to players based on their game scores. Two major organizations provide score-based ratings: *USA Pickleball Tournament Player Rating* [(UTPR)](https://usapickleball.org/tournaments/tournament-player-ratings) and *Dynamic Universal Pickleball Rating* [(DUPR)](https://mydupr.com/). 
 
 - **UTPR** provides ratings for players who play in UTPR affliated **tournaments**.  
-- **DUPR** provides ratings for players who play in [DUPR](https://mydupr.com) and [PPA](https://www.ppatour.com) affliated **tournaments**, as well as players who submit their scores of **any game** to DUPR.  
+- **DUPR** provides ratings for players who play in [DUPR](https://mydupr.com) and [PPA](https://www.ppatour.com) affiliated **tournaments**, as well as players who submit their scores of **any game** to DUPR.  
 
 ## Resources
 - [USA Pickleball (USAPA)](https://usapickleball.org)
