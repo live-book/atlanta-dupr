@@ -30,9 +30,8 @@ export default {
       },
       {
         text: 'Resource',
-        link: '/resource/',
+        link: '/resource/'
       }
-
      ],
      sidebar: {
       
