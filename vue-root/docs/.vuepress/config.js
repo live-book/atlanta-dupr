@@ -9,14 +9,14 @@ import { mdEnhancePlugin } from "vuepress-plugin-md-enhance";
 export default {
   lang: 'en-US',
   title: 'Atlanta DUPR Pickleball Club',
-  description: 'Pickleball players making measurable progress',  
+  description: 'Pickleball players making measurable progress',
   dest: '/home/runner/atlanta-dupr/docs',
   base: '/',
   theme: defaultTheme({
-     colorModeSwitch: false,
-     contributors: false,
-     logo: '/img/logo-ball.jpg',
-     navbar: [
+    colorModeSwitch: false,
+    contributors: false,
+    logo: '/img/logo-ball.jpg',
+    navbar: [
       {
         text: 'About',
         link: '/about/',
@@ -33,13 +33,23 @@ export default {
         text: 'Resource',
         link: '/resource/'
       }
-     ],
-     sidebar: {
-      
-     }
+    ],
+    sidebar: {
+      '/resource/': [
+        {
+          title: 'Resource',
+          collapsable: false,
+          children: [
+            'court',
+            'tournament',
+            'organization',
+          ]
+        }
+      ],
+    }
   }),
   plugins: [
-    seoPlugin({hostname: 'atlantadupr.com'}),
+    seoPlugin({ hostname: 'atlantadupr.com' }),
     mdEnhancePlugin({
       mermaid: true,
     }),
