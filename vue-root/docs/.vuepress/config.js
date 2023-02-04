@@ -15,6 +15,7 @@ export default {
   theme: defaultTheme({
      colorModeSwitch: false,
      contributors: false,
+     logo: '/img/logo-ball.jpg',
      navbar: [
       {
         text: 'About',
