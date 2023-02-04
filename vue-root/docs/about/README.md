@@ -5,4 +5,7 @@ The Atlanta DUPR Pickleball Club consists of Pickleball players who are interest
 - We use Atlanta DUPR Pickleball Club [Facebook Group](https://www.facebook.com/groups/5533522463403757) as a communication mechanism among players. 
 
 ## Note
-The Atlanta DUPR Pickleball Club is not affliated with or sponsored by [DUPR](https://mydupr.com/).
+The Atlanta DUPR Pickleball Club is not affiliated with or sponsored by
+- [DUPR](https://mydupr.com/)
+- [Atlanta Pickleball Club](https://atlantapickleballclub.com/)
+- [Atlanta Pickleball Club Facebook Group](https://www.facebook.com/groups/atlantapickleballclub/).
