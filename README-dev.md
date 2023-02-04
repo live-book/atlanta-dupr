@@ -78,3 +78,4 @@ yarn add -D vuepress-plugin-mermaid-wrapper
 - https://www.markdownguide.org/cheat-sheet/
 - https://www.w3schools.com/colors/colors_names.asp
 - https://dev.to/stackoverturf/so-you-bought-a-domain-name-4a96
+- https://vuepress.vuejs.org/guide/deploy.html#github-pages
