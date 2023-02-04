@@ -67,11 +67,11 @@
 | More Information: | [Piedmont Atlanta Fitness Center](https://www.piedmont.org/locations/fitness-centers/atlanta-fitness-center/atlanta-fitness-home), [Gym Schedule ](https://www.piedmont.org/media/file/PAH-Gymnasium-Schedule.pdf) |
 
 ### Play Options
-| Play Format | Date Time | Cost | Signup | 
-| ----------- | ----------- | ----------- | ----------- |
-| Open Play | Monday-Friday, 3 pm - 6 pm, Saturday, 1 pm 3:30 pm | see above | [laytime Scheduler](https://www.playtimescheduler.com) |
-| DUPR Round Robin | Monday, 6 p.m. - 8:45 pm | see above | [laytime Scheduler](https://www.playtimescheduler.com) |
-| Group Practice | Wednesday, 8 am - 12 pm | see above | [laytime Scheduler](https://www.playtimescheduler.com) |
+| Play Format | Date Time | Signup | 
+| ----------- | ----------- | ----------- |
+| Open Play | Monday-Friday, 3 pm - 6 pm, Saturday, 1 pm 3:30 pm | [laytime Scheduler](https://www.playtimescheduler.com) |
+| DUPR Round Robin | Monday, 6 p.m. - 8:45 pm | [laytime Scheduler](https://www.playtimescheduler.com) |
+| Group Practice | Wednesday, 8 am - 12 pm | [laytime Scheduler](https://www.playtimescheduler.com) |
 
 
 ## Piedmont Park Tennis Courts
@@ -86,7 +86,7 @@
 ### Play Options
 | Play Format | Date Time | Cost | Signup | 
 | ----------- | ----------- | ----------- | ----------- |
-| Open Play | Friday, 6 pm - 9 pm | $10 for non-member of Atlanta Pickleball Club | Piedmont Pickleball GroupMe |
+| Open Play | Friday, 6 pm - 9 pm | $10 for non-member of [Atlanta Pickleball Club](https://atlantapickleballclub.com/) | Piedmont Pickleball GroupMe |
 | Open Play  | Saturday, 3 p.m. - 5 pm | free? | [laytime Scheduler](https://www.playtimescheduler.com) |
 
 
