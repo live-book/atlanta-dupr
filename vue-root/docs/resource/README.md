@@ -1,10 +1,10 @@
 # Resource
 
-## Pickleball Organizations
+## Pickleball Organization
 - [USA Pickleball (USAPA)](https://usapickleball.org/)
 - [US Senior Pickleball (USSP)](https://www.usseniorpickleball.com/)
 
-## Pickleball Tournaments
+## Pickleball Tournament
 Websites that provide listing of Pickleball trounaments:
 - [pickleball.com](https://pickleball.com/tournaments)
 - [Pickleball Tournaments](https://www.pickleballtournaments.com/)
