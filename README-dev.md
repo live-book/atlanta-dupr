@@ -39,6 +39,12 @@ yarn add -D vuepress-plugin-seo2
 yarn add -D vuepress-plugin-md-enhance
 ```
 
+##
+```
+cd docs
+echo 'www.atlantadupr.com' > CNAME
+```
+
 ### TBD
 ```
 yarn add -D vuepress-plugin-mermaid-wrapper
