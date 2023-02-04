@@ -15,7 +15,7 @@ The DUPR Pickleball Round Robin event provides an organized way for players to p
 - Players of each game are assigned based on a round robin schedule created in advanced.
 - Players switch partners from one game to the next.
 - After each game, players submit the scores to mydupr.com. The scores of each game is independent of other games.
-- The prefered leved of players is ranging from 3.0 to 4.5.
+- The preferred level of players is ranging from 3.0 to 4.5.
 
 | Location | Date and Time |
 | ----------- | ----------- |

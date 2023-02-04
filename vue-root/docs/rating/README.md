@@ -27,7 +27,7 @@ Assessment-based rating refers to subjective rating assigned to a player based o
 ## Score-Based Rating
 A score-based rating refers to quantitative ratings assigned to players based on their game scores. Two major organizations provide score-based ratings: *USA Pickleball Tournament Player Rating* [(UTPR)](https://usapickleball.org/tournaments/tournament-player-ratings) and *Dynamic Universal Pickleball Rating* [(DUPR)](https://mydupr.com/). 
 
-- **UTPR** provides ratings for players who play in UTPR affliated **tournaments**.  
+- **UTPR** provides ratings for players who play in UTPR affiliated **tournaments**.  
 - **DUPR** provides ratings for players who play in [DUPR](https://mydupr.com) and [PPA](https://www.ppatour.com) affiliated **tournaments**, as well as players who submit their scores of **any game** to DUPR.  
 
 ## Resources
