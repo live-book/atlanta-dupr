@@ -11,7 +11,7 @@ export default {
   title: 'Atlanta DUPR Pickleball Club',
   description: 'Pickleball players making measurable progress',  
   dest: '/home/runner/atlanta-dupr/docs',
-  base: '/atlanta-dupr/',
+  base: '/',
   theme: defaultTheme({
      colorModeSwitch: false,
      contributors: false,

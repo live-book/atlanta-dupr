@@ -2,7 +2,7 @@
   "name": "vue-root",
   "version": "1.0.0",
   "license": "MIT",
-  "homepage": "http://www.atlantadupr.com/",
+  "homepage": "http://www.atlantadupr.com/",  
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"

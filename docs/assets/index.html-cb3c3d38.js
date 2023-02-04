@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-74bc627b","path":"/about/","title":"About","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"Facebook Group","slug":"facebook-group","link":"#facebook-group","children":[]},{"level":2,"title":"Note","slug":"note","link":"#note","children":[]}],"git":{"updatedTime":1674945541000},"filePathRelative":"about/README.md"}');export{e as data};

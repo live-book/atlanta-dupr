@@ -26,10 +26,10 @@ cd docs
 yarn install
 ```
 
-## Rund and Build
+## Run and Build
 ```
-yarn dev
-yarn build
+yarn docs:dev
+yarn docs:build
 
 ```
 
