@@ -27,7 +27,12 @@ export default {
       {
         text: 'Rating',
         link: '/rating/',
+      },
+      {
+        text: 'Resource',
+        link: '/resource/',
       }
+
      ],
      sidebar: {
       
