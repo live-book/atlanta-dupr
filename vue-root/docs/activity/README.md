@@ -30,7 +30,7 @@ We typically use switching-partner format for the round robin events.
 - Players play with the same partner for the entire event. 
 - A fixed-partner team plays with an opposing team that may be a fixed or switching partner team. 
 
-We have started to experiment with fixed-partner format as an option at Piedmont Fitness Center (not at Cross Crees).  The fixed-partner format offers opportunities for players who are interested in
+We have started to experiment with fixed-partner format as an option at Piedmont Fitness Center (not at Cross Creek).  The fixed-partner format offers opportunities for players who are interested in
 - practicing pickleball skills with a partner
 - practicing for tournament(s) with a partner. 
 
@@ -42,6 +42,11 @@ Players may request to play as a fixed-partner team.  However, due to various pr
 | Cross Creek Golf Club | Sundays, 10 a.m. to 12 p.m. |
 | Piedmont Atlanta Fitness Center | Mondays, 6 p.m. to 8:45 p.m. | 
 
+### Signing Up
+- Sign up for round robin events at [Playtime Scheduler](https://playtimescheduler.com/).  
+- Players are required to register with [DUPR](https://mydupr.com/) before participating in the round robin events. 
+
+
 ## Group Practice
 The **group practice** is intended for intermediate Pickleball players to work on skills for advancing to a higher level.  During a **group practice**, we perform 
 - drills
@@ -52,11 +57,13 @@ The **group practice** is intended for intermediate Pickleball players to work o
 | ----------- | ----------- |
 | Piedmont Atlanta Fitness Center | Wednesdays, 9 a.m. to 12 p.m. | 
 
+### Signing Up
+- Sign up for group practice events at [Playtime Scheduler](https://playtimescheduler.com/). 
+
 ## Locations
 
 ### Cross Creek Golf Club
 - 1221 Cross Creek Pkwy NW, Atlanta, GA 30327
-
 
 ### Piedmont Atlanta Fitness Center
 - 2001 Peachtree St NE Suite 100, Atlanta, GA 30309
