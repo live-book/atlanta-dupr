@@ -11,11 +11,31 @@ root((Activity))
 ```
 
 ## Round Robin
-The DUPR Pickleball Round Robin event provides an organized way for players to play games and submit their scores to DUPR. 
-- Players of each game are assigned based on a round robin schedule created in advanced.
-- Players switch partners from one game to the next.
-- After each game, players submit the scores to mydupr.com. The scores of each game is independent of other games.
-- The preferred level of players is ranging from 3.0 to 4.5.
+
+The DUPR Pickleball Round Robin event provides an organized way for players to play games and submit their scores to DUPR.
+
+- Players rotate in and out of a game following a round robin schedule created in advanced.
+- After each game, players submit the scores to mydupr.com or DUPR app. 
+- One player from winning team submits the score; One player from the other team validates the score. 
+- The scores of each game is independent of other games.
+- The current participating players have approximate ratings ranging from 3.0 to 4.0.
+
+### Switching-Partner
+- Players play with different partners from one game to another.
+
+We typically use switching-partner format for the round robin events.
+
+
+### Fixed-Partner
+- Players play with the same partner for the entire event. 
+- A fixed-partner team plays with an opposing team that may be a fixed or switching partner team. 
+
+We have started to experiment with fixed-partner format as an option at Piedmont Fitness Center (not at Cross Crees).  The fixed-partner format offers opportunities for players who are interested in
+- practicing pickleball skills with a partner
+- practicing for tournament(s) with a partner. 
+
+#### Note
+Players may request to play as a fixed-partner team.  However, due to various practical reason, we may not able to accommodate the request.  We may have to fallback to switching-partner format when using fixed-partner format is not feasible for a specific event. 
 
 | Location | Date and Time |
 | ----------- | ----------- |
