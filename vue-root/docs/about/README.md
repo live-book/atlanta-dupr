@@ -1,5 +1,5 @@
 # About
-The Atlanta DUPR Pickleball Club consists of Pickleball players who are interested in making measurable progress. We mainly play games and submit the scores to DUPR in order to get quantitative ratings. 
+The Atlanta DUPR Pickleball consists of Pickleball players who are interested in making measurable progress. We mainly play games and submit the scores to DUPR in order to get quantitative ratings. 
 
 ## Why Use DUPR?
 [Dynamic Universal Pickleball Rating (DUPR)](https://mydupr.com/) enables players to **get ratings** by submitting scores of **any games** to DUPR; unlike other rating systems that only provide ratings for tournament scores. 

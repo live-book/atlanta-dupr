@@ -8,7 +8,7 @@ import { mdEnhancePlugin } from "vuepress-plugin-md-enhance";
 
 export default {
   lang: 'en-US',
-  title: 'Atlanta DUPR Pickleball Club',
+  title: 'Atlanta DUPR Pickleball',
   description: 'Pickleball players making measurable progress',
   dest: '/home/runner/atlanta-dupr/docs',
   base: '/',

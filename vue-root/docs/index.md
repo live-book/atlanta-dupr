@@ -1,6 +1,6 @@
 ---
 home: true
-title: Atlanta DUPR Pickleball Club
+title: Atlanta DUPR Pickleball
 tagline: Pickleball players making measurable progress
 actions:
   - text: Our Activities →
