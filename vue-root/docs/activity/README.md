@@ -8,6 +8,7 @@ root((Activity))
   (types)
     (Round Robin Games)
     (Group Practice)
+    (Team Practice)
 ```
 
 ## Round Robin
@@ -18,24 +19,9 @@ The DUPR Pickleball Round Robin event provides an organized way for players to p
 - After each game, players submit the scores to mydupr.com or DUPR app. 
 - One player from winning team submits the score; One player from the other team validates the score. 
 - The scores of each game is independent of other games.
+- Switching-Partner: Players play with different partners from one game to another.
 - The current participating players have approximate ratings ranging from 3.0 to 4.0.
 
-### Switching-Partner
-- Players play with different partners from one game to another.
-
-We typically use switching-partner format for the round robin events.
-
-
-### Fixed-Partner
-- Players play with the same partner for the entire event. 
-- A fixed-partner team plays with an opposing team that may be a fixed or switching partner team. 
-
-We have started to experiment with fixed-partner format as an option at Piedmont Fitness Center (not at Cross Creek).  The fixed-partner format offers opportunities for players who are interested in
-- practicing pickleball skills with a partner
-- practicing for tournament(s) with a partner. 
-
-#### Note
-Players may request to play as a fixed-partner team.  However, due to various practical reason, we may not able to accommodate the request.  We may have to fallback to switching-partner format when using fixed-partner format is not feasible for a specific event. 
 
 | Location | Date and Time |
 | ----------- | ----------- |
@@ -59,6 +45,15 @@ The **group practice** is intended for intermediate Pickleball players to work o
 
 ### Signing Up
 - Sign up for group practice events at [Playtime Scheduler](https://playtimescheduler.com/). 
+
+## Team Practice
+
+We are considering having **team practice games** that offers opportunities for players who are interested in
+
+- practicing pickleball skills and strategies with a partner while playing a game, rather than wining a particular game
+- practicing for tournament(s) with a partner.
+
+We are still working on the logistics (time and location).  Stay tune. 
 
 ## Locations
 
