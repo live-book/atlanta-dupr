@@ -50,7 +50,7 @@ During a **drill practice**, we perform
 ### Game Practice
 
 The **game practice** offers opportunities for players to 
-- practicing pickleball skills and strategies with a partner while playing a game, rather than wining a particular game
+- practicing pickleball skills and strategies while playing a game, rather than wining a particular game
 - practicing for tournament(s) with a partner.
 
 We are still working on the logistics (time and location). 
