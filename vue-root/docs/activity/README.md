@@ -8,7 +8,6 @@ root((Activity))
   (types)
     (Round Robin Games)
     (Group Practice)
-    (Team Practice)
 ```
 
 ## Round Robin
@@ -22,7 +21,6 @@ The DUPR Pickleball Round Robin event provides an organized way for players to p
 - Switching-Partner: Players play with different partners from one game to another.
 - The current participating players have approximate ratings ranging from 3.0 to 4.0.
 
-
 | Location | Date and Time |
 | ----------- | ----------- |
 | Cross Creek Golf Club | Sundays, 10 a.m. to 12 p.m. |
@@ -34,7 +32,10 @@ The DUPR Pickleball Round Robin event provides an organized way for players to p
 
 
 ## Group Practice
-The **group practice** is intended for intermediate Pickleball players to work on skills for advancing to a higher level.  During a **group practice**, we perform 
+The **group practice** is intended for intermediate Pickleball players to work on skills for advancing to a higher level.  
+
+### Drill Practice
+During a **drill practice**, we perform 
 - drills
 - practice games focusing on specific skills
 - peer-coaching.
@@ -46,14 +47,13 @@ The **group practice** is intended for intermediate Pickleball players to work o
 ### Signing Up
 - Sign up for group practice events at [Playtime Scheduler](https://playtimescheduler.com/). 
 
-## Team Practice
+### Game Practice
 
-We are considering having **team practice games** that offers opportunities for players who are interested in
-
+The **game practice** offers opportunities for players to 
 - practicing pickleball skills and strategies with a partner while playing a game, rather than wining a particular game
 - practicing for tournament(s) with a partner.
 
-We are still working on the logistics (time and location).  Stay tune. 
+We are still working on the logistics (time and location). 
 
 ## Locations
 
