@@ -1,6 +1,7 @@
 // import { defineUserConfig } from 'vuepress'
 import { defaultTheme } from '@vuepress/theme-default'
 import { seoPlugin } from "vuepress-plugin-seo2";
+import { sitemapPlugin } from "vuepress-plugin-sitemap2";
 import { mdEnhancePlugin } from "vuepress-plugin-md-enhance";
 
 // import { defineClientConfig } from '@vuepress/client'
@@ -52,6 +53,9 @@ export default {
     seoPlugin({ hostname: 'atlantadupr.com' }),
     mdEnhancePlugin({
       mermaid: true,
+    }),
+    sitemapPlugin({
+       hostname: 'atlantadupr.com'
     }),
     // mermaidWrapperPlugin({}),
   ]
