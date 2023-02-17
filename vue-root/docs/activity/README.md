@@ -42,7 +42,7 @@ During a **drill practice**, we perform
 
 | Location | Date and Time |
 | ----------- | ----------- |
-| Piedmont Atlanta Fitness Center | Wednesdays, 9 a.m. to 11 p.m. | 
+| Piedmont Atlanta Fitness Center | Wednesdays, 9 a.m. to 11 a.m. | 
 
 ### Signing Up
 - Sign up for group practice events at [Playtime Scheduler](https://playtimescheduler.com/). 
