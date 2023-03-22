@@ -30,9 +30,40 @@ The DUPR Pickleball Round Robin event provides an organized way for players to p
 - Sign up for round robin events at [Playtime Scheduler](https://playtimescheduler.com/).  
 - Players are required to register with [DUPR](https://mydupr.com/) before participating in the round robin events. 
 
+### Eight Players or More
 
-## Group Practice
-The **group practice** is intended for intermediate Pickleball players to work on skills for advancing to a higher level.  
+We play two rounds of round robin games when there are more than 8 players.  
+
+#### Round One
+- Players are ranked by their ratings from low to high.  DUPR-rating takes precedence over self-rating.
+- The players are divided to groups of 4 to 6 players based on the players’ ratings.  Each group plays in one court.  
+- Each player is assigned a score, based on the game score, at the end of each game. 
+
+#### Round Two
+Players move up or down the courts based on their scores from round one.
+
+<table>
+<tr>
+<th>Bottom Court</th>
+<th>Middle Court(s)</th>
+<th>Top Court</th>
+</tr>
+<tr>
+<td>
+<li>2 players with the highest scores move up to the next higher court.</li>
+</td>
+<td>
+<li>2 players with the highest scores move up to the next higher court. </li>
+<li>2 players with the lowest scores move down to the next lower court. </li>
+</td>
+<td>
+<li>2 players with the lowest scores move down to the next lower court. </li>
+</td>
+</tr>
+</table>
+
+## Small Group Practice
+The **small group practice** is intended for intermediate Pickleball players to work on skills for advancing to a higher level.  
 
 ### Drill Practice
 During a **drill practice**, we perform 

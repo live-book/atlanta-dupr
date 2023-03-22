@@ -18,14 +18,6 @@ echo '# Hello VuePress' > docs/README.md
 yarn docs:dev
 ```
 
-## Setup
-```
-yarn create vuepress-site vue-docs
-cd vue-docs
-cd docs
-yarn install
-```
-
 ## Run and Build
 ```
 yarn docs:dev
