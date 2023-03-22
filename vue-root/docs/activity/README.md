@@ -36,7 +36,7 @@ We play two rounds of round robin games when there are more than 8 players.
 
 #### Round One
 - Players are ranked by their ratings from low to high.  DUPR-rating takes precedence over self-rating.
-- The players are divided to groups of 4 to 6 players based on the players’ ratings.  Each group plays in one court.  
+- Players are divided to groups of 4 to 6 players.  Each group plays in one court.  
 - Each player is assigned a score, based on the game score, at the end of each game. 
 
 #### Round Two
