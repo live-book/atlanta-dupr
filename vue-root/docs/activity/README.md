@@ -42,25 +42,10 @@ We play two rounds of round robin games when there are more than 8 players.
 #### Round Two
 Players move up or down the courts based on their scores from round one.
 
-<table>
-<tr>
-<th>Bottom Court</th>
-<th>Middle Court(s)</th>
-<th>Top Court</th>
-</tr>
-<tr>
-<td>
-<li>2 players with the highest scores move up to the next higher court.</li>
-</td>
-<td>
-<li>2 players with the highest scores move up to the next higher court. </li>
-<li>2 players with the lowest scores move down to the next lower court. </li>
-</td>
-<td>
-<li>2 players with the lowest scores move down to the next lower court. </li>
-</td>
-</tr>
-</table>
+| Bottom Court | Middle Court(s) | Top Court
+| ----------- | ----------- | ----------- | 
+| <li>2 top players move up one court</li> | <li>2 top players move up</li><li> 2 bottom players move down one court</li> |  <li>2 bottom players move down one court</li> |
+
 
 ## Small Group Practice
 The **small group practice** is intended for intermediate Pickleball players to work on skills for advancing to a higher level.  
