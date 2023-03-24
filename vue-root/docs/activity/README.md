@@ -32,19 +32,19 @@ The DUPR Pickleball Round Robin event provides an organized way for players to p
 
 ### Eight Players or More
 
-We play two rounds of round robin games when there are more than 8 players.  
+We play **two rounds** of round robin games when there are more than **8 players**.  
 
 #### Round One
-- Players are ranked by their ratings from low to high.  DUPR-rating takes precedence over self-rating.
-- Players are divided to groups of 4 to 6 players.  Each group plays in one court.  
-- Each player is assigned a score, based on the game score, at the end of each game. 
+- Players are **ranked by their ratings** from low to high.  DUPR-rating takes precedence over self-rating.
+- Players are divided into **groups** of 4 to 6 players.  Each group plays in one court, from low to high.  
+- Each **player is assigned a score**, based on the game score, at the end of each game. 
 
 #### Round Two
-Players move up or down the courts based on their scores from round one.
+Players move **up**  or **down** the courts based on their **scores from round one**.
 
 | Bottom Court | Middle Court(s) | Top Court
 | ----------- | ----------- | ----------- | 
-| <li>2 top players move up one court</li> | <li>2 top players move up</li><li> 2 bottom players move down one court</li> |  <li>2 bottom players move down one court</li> |
+| <li>2 top players **move up** one court</li> | <li>2 top players **move up**</li><li> 2 bottom players **move down** one court</li> |  <li>2 bottom players **move down** one court</li> |
 
 
 ## Small Group Practice
