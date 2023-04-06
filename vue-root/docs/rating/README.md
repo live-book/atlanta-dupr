@@ -3,15 +3,14 @@ Types of Pickleball ratings
 - assessment-based rating: **self-rating** and **coach-rating**
 - score-based rating: **UTPR** and **DUPR**
 
-```mindmap
-root((Rating))
-  Assessment
-    Self rating
-    Coach rating
-  (Scoring)
-    (UTPR)
-    (DUPR)
+```mermaid
+graph LR
+    A[Rating] --> B(Assessment) --> C(Coach-rating)
+    B --> D(Self-rating)
+    A --> E(Scoring) --> F(UTPR)
+    E --> G(DUPR)
 ```
+
 
 ## Assessment-Based Rating
 

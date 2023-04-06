@@ -1,13 +1,11 @@
 # Activity
 
-```mindmap
-root((Activity))
-  at
-    Cross Creek<br/>Golf Club
-    Piedmont Atlanta<br/>Fitness Center
-  (types)
-    (Round Robin Games)
-    (Group Practice)
+```mermaid
+graph LR
+    A[Activities] --> B((at)) --> C(Cross Creek<br/>Golf Club)
+    B --> D(Piedmont Atlanta<br/>Fitness Center)
+    A --> E((types)) --> F(Round Robin)
+    E --> G(Small Group Practice)
 ```
 
 ## Round Robin
