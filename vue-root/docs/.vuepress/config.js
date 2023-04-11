@@ -24,7 +24,7 @@ export default {
       },
       {
         text: 'Activity',
-        link: '/activity/',
+        link: '/activity/activity.md',
       },
       {
         text: 'Rating',

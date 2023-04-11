@@ -4,7 +4,7 @@ title: Atlanta DUPR Pickleball
 tagline: Pickleball players making measurable progress
 actions:
   - text: Our Activities →
-    link: /activity/
+    link: /activity/activity.md
     type: primary
   - text: Pickleball Ratings →
     link: /rating/
