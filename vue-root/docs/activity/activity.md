@@ -3,6 +3,7 @@
 ```mermaid
 graph LR
     A[Activities] --> B((at)) --> C(Cross Creek<br/>Golf Club)
+    B --> D(Nickajack Park)
     A --> E((types)) --> F(Round Robin)
     E --> G(Small Group Practice)
 ```
@@ -27,7 +28,8 @@ The DUPR Pickleball Round Robin event provides an organized way for players to p
 
 | Location | Date and Time |
 | ----------- | ----------- |
-| Cross Creek Golf Club | Sundays, 10 a.m. to 12 p.m. |
+| Cross Creek Golf Club | Sundays, 11 a.m. to 1 p.m. |
+| Nickajack Park | Tuesdays, 6 to 8:30 p.m. |
 
 ### Rotating-Partner Round Robin
 

@@ -20,7 +20,7 @@ export default {
     navbar: [
       {
         text: 'About',
-        link: '/about/',
+        link: '/about/about.md',
       },
       {
         text: 'Activity',
@@ -32,11 +32,11 @@ export default {
       },
       {
         text: 'Resource',
-        link: '/resource/'
+        link: '/resource/resource.md'
       }
     ],
     sidebar: {
-      '/resource/': [
+      '/resource': [
         {
           title: 'Resource',
           collapsable: false,
@@ -55,7 +55,7 @@ export default {
       mermaid: true,
     }),
     sitemapPlugin({
-       hostname: 'atlantadupr.com'
+      hostname: 'atlantadupr.com'
     }),
     // mermaidWrapperPlugin({}),
   ]
