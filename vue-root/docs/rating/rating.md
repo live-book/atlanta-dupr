@@ -14,7 +14,7 @@ graph LR
 
 ## Skill-Rating
 
-Skill-rating refers a subjective rating of a player's skill level, typically based  Pickleball skill assessment guidelines defined by an established organization, such as [USAPA](https://usapickleball.org/tournaments/tournament-player-ratings) or [IPTPA](https://iptpa.com).  There are two types of skill-rating: 
+Skill-rating refers a subjective rating of a player's skill level, typically based  on Pickleball skill assessment guidelines defined by an established organization, such as [USAPA](https://usapickleball.org/tournaments/tournament-player-ratings) or [IPTPA](https://iptpa.com).  There are two types of skill-rating: 
 
 - **Self-rating** refers to players assign ratings to themselves based on predefined skill rating guidelines.
 - **Coach-rating** refers to players assign ratings by a Pickleball coach the coach's knowledge and predefined skill rating guidelines.
