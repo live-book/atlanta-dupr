@@ -28,7 +28,7 @@ export default {
       },
       {
         text: 'Rating',
-        link: '/rating/',
+        link: '/rating/rating.md',
       },
       {
         text: 'Resource',
